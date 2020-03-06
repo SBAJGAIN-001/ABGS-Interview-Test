@@ -1,0 +1,54 @@
+/*first assignment*/
+.container {
+	width: 100%;
+	margin: auto;
+}
+
+#button {
+	width: 100px;
+	background: red;
+	border-top-right-radius: 25px;
+	border-bottom-left-radius: 25px;
+	margin: auto;
+	height: 50px;
+}
+
+.container h1 {
+	text-align: center;
+}
+
+
+/*second assignment*/
+
+.container #rotateBtn {
+	width: 150px;
+	margin: auto;
+	display: block;
+}
+
+
+#rotate {
+	height: 50px;
+	width: 100px;
+	background-color: red;
+	transform: rotate(0deg);
+	transform-origin: top left;
+	margin: auto;
+}
+
+/*third assignment*/
+
+.radio {
+	width: 150px;
+	margin: auto;
+	display: block;
+}
+
+#platformList {
+	width: 120px;
+}
+
+span {
+	width: 300px;
+	text-align: center;
+}
